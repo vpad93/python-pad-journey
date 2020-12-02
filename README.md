@@ -1,1 +1,4 @@
-# python-pad-journey
+# Python Pad Journey
+
+## Installation
+run 'python install -r requerimientos.txt'
